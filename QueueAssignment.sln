@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueAssignment", "ConsoleApp9\QueueAssignment.csproj", "{E27716B1-DBA5-4F02-A69C-B9567828AC6E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QueueAssignment", "QueueAssignment\QueueAssignment.csproj", "{1024661F-AE67-4C1F-BB5C-0575AAC71F18}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E27716B1-DBA5-4F02-A69C-B9567828AC6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E27716B1-DBA5-4F02-A69C-B9567828AC6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E27716B1-DBA5-4F02-A69C-B9567828AC6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E27716B1-DBA5-4F02-A69C-B9567828AC6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1024661F-AE67-4C1F-BB5C-0575AAC71F18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1024661F-AE67-4C1F-BB5C-0575AAC71F18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1024661F-AE67-4C1F-BB5C-0575AAC71F18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1024661F-AE67-4C1F-BB5C-0575AAC71F18}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
